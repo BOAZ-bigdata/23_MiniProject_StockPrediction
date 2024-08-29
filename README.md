@@ -1,4 +1,4 @@
-### 23 Mini Project: **Card Chatbot**
+### 삼성전자 주가 예측을 통한 수익 극대화 연구 (
 
 - **Usage**: 
   - [ ] Session
