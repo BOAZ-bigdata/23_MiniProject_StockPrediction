@@ -1,4 +1,4 @@
-### 23 MiniProject <삼성전자 주가예측을 통한 수익 극대화 연구>
+## 23 MiniProject <삼성전자 주가예측을 통한 수익 극대화 연구>
 
 - **Usage**: 
   - [ ] Session
